@@ -1,0 +1,79 @@
+.containerdeprestation {
+  /* display: flex;
+  justify-content: center; */
+
+}
+.gras {
+  color:white;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+}
+
+.prestation {
+  text-align: center;
+  color: white;
+}
+.haut {
+  padding-top: 1.3em;
+  text-align: center;
+  color: white;
+  padding-bottom: 0.6em;
+}
+.container-fluid {
+  background: #FF1493;
+  color: black;
+  height: auto;
+  width: auto;
+  padding-bottom: 2em; /* pour rallonger en bas le fond */
+}
+/* .prestation {
+  background-color: red;
+  opacity: 0.6;
+  height: auto;
+  width: auto;
+     margin: 1.5em;
+    margin-top: 2em;
+    margin-bottom: 3em;
+    padding-bottom: 2em;
+  box-shadow: 1px 1px 12px #555;
+
+} */
+
+.img-responsive2 {
+  height: 200px;
+  width: 200px;
+  border-radius: 100px ;
+  box-shadow: 1px 1px 12px #555;
+   margin-top: 30px;
+
+}
+
+.center {
+   text-align: center;
+   padding-left: 1.5em;
+}
+/* .icons {
+  /* text-align: center;
+  background: #FFF0F5;
+  padding-bottom: 0.6em;
+  height: 2em;
+} */
+
+.mini-title {
+  /* text-align: center; */
+  padding-top: 1em;
+  font-size: 30px;
+  letter-spacing: 1px;
+}
+
+.little-para {
+  /* margin-top: 2em; */
+  font-size: 20px;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+.little-para2 {
+  letter-spacing: 1px;
+}

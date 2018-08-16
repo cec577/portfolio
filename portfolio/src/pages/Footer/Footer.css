@@ -1,0 +1,39 @@
+.footer {
+  background-color: #212529;
+padding-bottom: 20px;
+}
+
+.info-footer {
+  color: white;
+  letter-spacing: 1px;
+  /* margin-left: 6em; */
+}
+
+i {
+  padding-right: 15px;
+}
+.info {
+  text-align: center;
+  padding-top: 2.1em;
+
+}
+
+.map {
+  float: right;
+}
+i {
+  color:white;
+}
+.container-fluid6 {
+  text-align: center;
+}
+
+.click {
+  padding-top: 10px;
+}
+
+.pied {
+  padding-top: 30px;
+  color: red;
+  font-size: 10px;
+}

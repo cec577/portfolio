@@ -1,0 +1,33 @@
+.title {
+  color: #b37399;
+
+}
+
+.navbar-brand {
+  color: #FF1493 !important;
+}
+
+a {
+  color:#FF1493 !important;
+}
+
+.bb {
+  overflow-y: hidden;
+}
+.double-border {
+  border-top: thick double #FF1493;
+
+}
+
+.title {
+  text-align: center;
+  /* color: #cccfd4; */
+  color:black;
+  padding-top:2em;
+  font-family: 'Lobster', cursive;
+  opacity:1;
+}
+
+.nav-link {
+  text-align: center;
+}

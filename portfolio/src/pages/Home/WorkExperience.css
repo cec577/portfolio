@@ -1,0 +1,33 @@
+.container-fluid2 {
+  background: #FFC0CB;
+  padding-bottom: 20px;
+}
+
+.ecrit {
+  position: relative;
+  padding: 2em;
+}
+
+.encart {
+  background: #333;
+
+ margin: auto;
+ margin-left: 30px;
+ margin-right: 30px;
+ margin-bottom: 20px;
+ box-shadow: 1px 2px 20px rgba(255, 255, 255, 0.6) inset;
+}
+
+.emploi {
+  text-align: center;
+  font-weight: bold;
+  color: #FFC0CB;
+  font-size: 25px;
+}
+
+.description {
+  text-align: center;
+  color: white;
+  letter-spacing: 2px;
+  font-size: 20px;
+}
